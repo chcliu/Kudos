@@ -116,9 +116,9 @@ yarn start
 - [PostgreSQL](https://www.postgresql.org/)
 - [Express](http://expressjs.com/)
 
-### Created by Team Charles, Sora, Toru
-Follow us at github:
-Charles: chcliu
-Sora: SoraMaruyama
-Toru: egurinko
+### Created by Team Love
+# Follow us at github:
+-Charles: chcliu
+-Sora: SoraMaruyama
+-Toru: egurinko
 
