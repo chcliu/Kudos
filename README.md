@@ -118,7 +118,7 @@ yarn start
 
 ### Created by Team Love
 ##### Follow us at github:
-- Charles: chcliu
-- Sora: SoraMaruyama
-- Toru: egurinko
+- chcliu
+- SoraMaruyama
+- egurinko
 
