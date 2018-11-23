@@ -117,7 +117,7 @@ yarn start
 - [Express](http://expressjs.com/)
 
 ### Created by Team Love
-##### Follow us at github:
+##### Follow us on Github:
 - chcliu
 - SoraMaruyama
 - egurinko
