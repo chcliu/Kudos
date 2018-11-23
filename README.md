@@ -5,7 +5,7 @@
 # Kudos
 
 This was created during my time as a student at Code Chrysalis!<br>
-This project is powered by Rakuten Rapid API.<br>
+This project is made specifically to implement Rakuten Rapid API.<br>
 You can make people around you happy with Kudos even if you are busy.
 
 [![Kudos UI](https://user-images.githubusercontent.com/23233648/48925664-a6fad280-ef09-11e8-8b6a-9ce8e6777faa.png)](https://kudos-love.herokuapp.com/)
@@ -118,7 +118,8 @@ yarn start
 
 ### Created by Team Love
 ##### Follow us on Github:
-- chcliu
-- SoraMaruyama
-- egurinko
+- [chcliu](https://github.com/chcliu)
+- [SoraMaruyama](https://github.com/SoraMaruyama)
+- [egurinko](https://github.com/egurinko)
+
 
